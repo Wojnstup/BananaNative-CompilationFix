@@ -1,0 +1,60 @@
+{
+ "format": 2,
+ "title_id": "0400A3A01EE4C000",
+ "name": "Pokemon Pokopia",
+ "version": 655360,
+ "dump": "\/storage\/emulated\/0\/switch2_emu\/PPP ROM",
+ "work": "\/storage\/emulated\/0\/switch2_emu\/0400A3A01EE4C000-work",
+ "apk": {
+  "engine": "native",
+  "dmsh_chain": "eda8d97a233b",
+  "dmsh_vk_chain": "31b81e5c07ac",
+  "xlate_source": "0f31637014ce4725",
+  "version_code": 6
+ },
+ "state": "failed",
+ "reason": "",
+ "error": "the dump's shaders are not the ones this app knows for Pokemon Pokopia (update 655360, shader_map.tsv differs). The dump may be incomplete or modified: dump the game again, then Retry",
+ "step": "shaders",
+ "created": 1793979741222,
+ "pack": "\/storage\/emulated\/0\/Android\/data\/dev.bananative.android\/files\/packs\/0400A3A01EE4C000",
+ "own_pack": false,
+ "steps": {
+  "identify": {
+   "state": "done",
+   "done": 1,
+   "total": 1,
+   "stage": "identify",
+   "starts": 0
+  },
+  "rewrite": {
+   "state": "done",
+   "done": 1,
+   "total": 1,
+   "stage": "",
+   "starts": 0
+  },
+  "split": {
+   "state": "pending",
+   "done": 79,
+   "total": 79,
+   "stage": "",
+   "starts": 0
+  },
+  "shaders": {
+   "state": "pending",
+   "done": 0,
+   "total": 0,
+   "stage": "",
+   "starts": 0
+  },
+  "pack": {
+   "state": "pending",
+   "done": 0,
+   "total": 0,
+   "stage": "",
+   "starts": 0
+  }
+ },
+ "updated": 1793979888820
+}

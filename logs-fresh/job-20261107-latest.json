@@ -1,0 +1,60 @@
+{
+ "format": 2,
+ "title_id": "0400A3A01EE4C000",
+ "name": "Pokemon Pokopia",
+ "version": 655360,
+ "dump": "\/storage\/emulated\/0\/switch2_emu\/PPP ROM",
+ "work": "\/storage\/emulated\/0\/switch2_emu\/0400A3A01EE4C000-work",
+ "apk": {
+  "engine": "native",
+  "dmsh_chain": "b9370f78a9d7",
+  "dmsh_vk_chain": "31b81e5c07ac",
+  "xlate_source": "4ee30f0cb4f115b4",
+  "version_code": 1
+ },
+ "state": "failed",
+ "reason": "",
+ "error": "shaders stopped with code 1: \/data\/user\/0\/dev.nxnative.android.pokopia\/files\/pack\/edd4a0455ac1a301\/repo\/dm\/gfx\/nvn\/dmsh_chain_vk.h does not hold the current Vulkan library version 9682dd04138c and ABI 674db0a4ff79: run vk_android_build.py --header and commit it (log: \/storage\/emulated\/0\/switch2_emu\/0400A3A01EE4C000-work\/ondevice\/logs\/shaders.log)",
+ "step": "shaders",
+ "created": 1794048222206,
+ "pack": "\/storage\/emulated\/0\/Android\/data\/dev.nxnative.android.pokopia\/files\/packs\/0400A3A01EE4C000",
+ "own_pack": true,
+ "steps": {
+  "identify": {
+   "state": "done",
+   "done": 1,
+   "total": 1,
+   "stage": "identify",
+   "starts": 0
+  },
+  "rewrite": {
+   "state": "done",
+   "done": 1,
+   "total": 1,
+   "stage": "",
+   "starts": 0
+  },
+  "split": {
+   "state": "done",
+   "done": 79,
+   "total": 79,
+   "stage": "",
+   "starts": 0
+  },
+  "shaders": {
+   "state": "pending",
+   "done": 0,
+   "total": 0,
+   "stage": "",
+   "starts": 0
+  },
+  "pack": {
+   "state": "pending",
+   "done": 0,
+   "total": 0,
+   "stage": "",
+   "starts": 0
+  }
+ },
+ "updated": 1794048526184
+}

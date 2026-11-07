@@ -1,0 +1,9 @@
+== 2026-11-06 16:42:21 Banana Native 0.1.5 · caf11a1 · official, engine native: scripts/pack_android.py /storage/emulated/0/switch2_emu/PPP ROM --version 655360 --out /storage/emulated/0/Android/data/dev.bananative.android/files/packs/0400A3A01EE4C000 --code-only -j 1 --in-process
+0400A3A01EE4C000 Pokemon Pokopia version 655360: /storage/emulated/0/switch2_emu/PPP ROM/updates/655360
+  main: rewriting /storage/emulated/0/switch2_emu/PPP ROM/updates/655360/exefs/main (in process)
+  main: done (93.8 s)
+  subsdk0: rewriting /storage/emulated/0/switch2_emu/PPP ROM/updates/655360/exefs/subsdk0 (in process)
+  subsdk0: done (2.9 s)
+  sdk: rewriting /storage/emulated/0/switch2_emu/PPP ROM/updates/655360/exefs/sdk (in process)
+  sdk: done (21.2 s)
+done: the modules in /storage/emulated/0/Android/data/dev.bananative.android/files/packs/0400A3A01EE4C000 (--code-only: pack.tsv and the shaders unchanged)
